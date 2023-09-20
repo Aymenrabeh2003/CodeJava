@@ -1,6 +1,6 @@
 public class Ej2 {
     public static void main(String[] args) {
-
+        //Primera clase
         int a = 5;
         int b;
         b = 7;
