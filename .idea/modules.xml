@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClassEjercices/Class1.iml" filepath="$PROJECT_DIR$/ClassEjercices/Class1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClassEjercices1/Class2.iml" filepath="$PROJECT_DIR$/ClassEjercices1/Class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miguel/Class1.iml" filepath="$PROJECT_DIR$/Miguel/Class1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Victor/Class2.iml" filepath="$PROJECT_DIR$/Victor/Class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeCourseJava/CodeCourseJava.iml" filepath="$PROJECT_DIR$/CodeCourseJava/CodeCourseJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeJava.iml" filepath="$PROJECT_DIR$/.idea/CodeJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/w3resource/w3resource.iml" filepath="$PROJECT_DIR$/w3resource/w3resource.iml" />
